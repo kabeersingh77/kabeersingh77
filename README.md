@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kabeersingh77
+- 👋 Hello, I’m @kabeersingh77
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning Backend
 
